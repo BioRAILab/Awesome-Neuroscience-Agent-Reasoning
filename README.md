@@ -13,8 +13,9 @@ Neuroscience Inspired Agent Reasoning Framework
 * A Survey of Reasoning with Foundation Models[[Paper]](https://arxiv.org/abs/2312.11562) [[Code]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 * From System 1 to System 2: A Survey of Reasoning Large Language Models[[Paper]](https://arxiv.org/abs/2502.17419) [[Code]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
 
+
 ## Agent Reasoning Framework
-- [Dimension-based Reasoning](#dimention-based-reasoning)
+- [Dimension-based Reasoning](#dimension-based-reasoning)
   - [Part 1: Spatial Reasoning](#part-1-spatial-reasoning)
   - [Part 2: Temporal Reasoning](#part-2-temporal-reasoning)
 - [Perception-based Reasoning](#perception-based-reasoning)
@@ -33,7 +34,8 @@ Neuroscience Inspired Agent Reasoning Framework
  ## Part 1: Spatial Reasoning
 
  ## Part 2: Temporal Reasoning
-
+ ### LLM based
+ * Text-to-ECG: 12-Lead Electrocardiogram Synthesis Conditioned on Clinical Text Reports (ICASSP 2023) [[Paper]](https://arxiv.org/abs/2303.09395)
  ## Part 3: Visual Reasoning
 
  ## Part 4: Lingual Reasoning
