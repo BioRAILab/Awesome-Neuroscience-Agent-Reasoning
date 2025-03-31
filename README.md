@@ -5,9 +5,10 @@ Neuroscience Inspired Agent Reasoning Framework
 
 ## Agentic Reasoning: A Novel Systematic Framework and Survey from Neuroscience Perspective
 
+![image](./figures/reasoning_process.png)
 
 ## Latest Reasoning Surveys
-* Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey. [[Paper]](https://arxiv.org/abs/2503.12605) [[Code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
+* Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey [[Paper]](https://arxiv.org/abs/2503.12605) [[Code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
 * Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models [[Paper]](https://arxiv.org/abs/2503.16419) [[Code]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
 * A Survey of Reasoning with Foundation Models[[Paper]](https://arxiv.org/abs/2312.11562) [[Code]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
 * From System 1 to System 2: A Survey of Reasoning Large Language Models[[Paper]](https://arxiv.org/abs/2502.17419) [[Code]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
