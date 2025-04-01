@@ -54,7 +54,9 @@ Neuroscience Inspired Agent Reasoning Framework
  * **An improving reasoning network for complex question answering over temporal knowledge graphs (Applied Intelligence 2023)** [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03913-6)
  ## Perception-based Reasoning
  ## Part 3: Visual Reasoning
-
+### VLM based
+  * **GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering (arXiv 2024) [[Paper]](https://arxiv.org/pdf/2402.02503)
+  * **Lisa: Reasoning segmentation via large language model (CVPR 2024) [[Paper]](http://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
  ## Part 4: Lingual Reasoning
 
  ## Part 5: Auditory Reasoning
