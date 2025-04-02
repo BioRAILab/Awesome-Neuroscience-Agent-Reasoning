@@ -34,6 +34,19 @@ Neuroscience Inspired Agent Reasoning Framework
 - [Evaluation&Benchmark](#evaluation-benchmark)
 ## Dimension-based Reasoning
 ## Part 1: Spatial Reasoning
+* **Visual Spatial Reasoning (TACL 2023)** [[Paper]](https://doi.org/10.1162/tacl_a_00566)
+* **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf))
+* **Large Language Models are Visual Reasoning Coordinators (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ddfe6bae7b869e819f842753009b94ad-Paper-Conference.pdf)
+* **Is a Picture Worth a Thousand Words? Delving into Spatial Reasoning for Vision-Language Models (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/89cc5e613d34f90de90c21e996e60b30-Paper-Conference.pdf)
+* **Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs (CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs_CVPR_2024_paper.pdf)
+* **Advancing Spatial Reasoning in Large Language Models: An In-Depth Evaluation and Enhancement Using the StepGame Benchmark (AAAI 2024)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29811/31406)
+* **SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors (NeurIPS 2024)** [[Paper]](https://arxiv.org/pdf/2403.13438)
+* **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Models (NeurIPS 2024)** [[Paper]](https://arxiv.org/pdf/2406.01584)
+* **Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation (AAAI 2025)** [[Paper]](https://arxiv.org/pdf/2408.15876)
+* **Metric Reasoning in Large Language Models (ACM GIS 2024)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3678717.3691226)
+* **Weakly-supervised 3D Spatial Reasoning for Text-based Visual Question Answering (IEEE TIP 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10141570)
+* **Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models (DMLR @ICLR 2024)** [[Paper]](https://arxiv.org/pdf/2308.09778)
+* **StarCraftImage: A Dataset for Prototyping Spatial Reasoning Methods for Multi-Agent Environments (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.pdf)
 
 ## Part 2: Temporal Reasoning
 ### LLM based
