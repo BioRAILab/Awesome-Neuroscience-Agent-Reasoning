@@ -68,28 +68,28 @@ Neuroscience Inspired Agent Reasoning Framework
  ## Perception-based Reasoning
  ## Part 3: Visual Reasoning
 ### VLM based
-  * **GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2402.02503)
-  * **Lisa: Reasoning segmentation via large language model (CVPR 2024)** [[Paper]](http://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf)
+  * **GeReA: Question-Aware Prompt Captions for Knowledge-based Visual Question Answering (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2402.02503) [[Code]](https://github.com/Upper9527/GeReA)
+  * **Lisa: Reasoning segmentation via large language model (CVPR 2024)** [[Paper]](http://openaccess.thecvf.com/content/CVPR2024/papers/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.pdf) [[Code]](https://github.com/dvlabresearch/LISA)
   * **KN-VLM: KNowledge-guided Vision-and-Language Model for visual abductive reasoning (Research Square 2025)** [[Paper]](https://www.researchsquare.com/article/rs-4934011/latest.pdf)
-  * **Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge (ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2401.10712)
+  * **Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge (ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2401.10712) [[Code]](https://github.com/WHB139426/QA-Prompts)
 ### LLM based
-  * **Large language models are visual reasoning coordinators (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ddfe6bae7b869e819f842753009b94ad-Paper-Conference.pdf）
+  * **Large language models are visual reasoning coordinators (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ddfe6bae7b869e819f842753009b94ad-Paper-Conference.pdf) [[Code]](https://github.com/cliangyu/Cola)
   * **Enhancing LLM Reasoning via Vision-Augmented Prompting (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/328c922d068dd4ccb23cec5c64e6c7fc-Paper-Conference.pdf)
-  * **Improving zero-shot visual question answering via large language models with reasoning question prompts (ACM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612389)
+  * **Improving zero-shot visual question answering via large language models with reasoning question prompts (ACM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612389) [[Code]](https://github.com/ECNU-DASE-NLP/RQP)
   * **Visual Chain-of-Thought Prompting for Knowledge-Based Visual Reasoning (AAAI 2024)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27888/27801)
-  * **Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/0ff38d72a2e0aa6dbe42de83a17b2223-Paper-Datasets_and_Benchmarks_Track.pdf)
-  * **Visual chain of thought: bridging logical gaps with multimodal infillings (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2305.02317)
+  * **Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/0ff38d72a2e0aa6dbe42de83a17b2223-Paper-Datasets_and_Benchmarks_Track.pdf) [[Code]](https://github.com/deepcs233/Visual-CoT)
+  * **Visual chain of thought: bridging logical gaps with multimodal infillings (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2305.02317) [[Code]](https://github.com/dannyrose30/VCOT)
   * **End-to-End Chart Summarization via Visual Chain-of-Thought in Vision-Language Models (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.17589)
-  * **Llava-o1: Let vision language models reason step-by-step (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.10440?)
+  * **Llava-o1: Let vision language models reason step-by-step (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.10440?) [[Code]](https://github.com/PKU-YuanGroup/LLaVA-CoT)
 ### Neuro-symbolic based
-  * **ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning (COLM 2024)** [[Paper]](https://arxiv.org/pdf/2408.02210)
-  * **Visual programming: Compositional visual reasoning without training (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
-  * **Vipergpt: Visual inference via python execution for reasoning (CVPR 2023)** [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Suris_ViperGPT_Visual_Inference_via_Python_Execution_for_Reasoning_ICCV_2023_paper.pdf)
+  * **ExoViP: Step-by-step Verification and Exploration with Exoskeleton Modules for Compositional Visual Reasoning (COLM 2024)** [[Paper]](https://arxiv.org/pdf/2408.02210) [[Code]](https://github.com/bigai-nlco/ExoViP)
+  * **Visual programming: Compositional visual reasoning without training (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf) [[Code]](https://prior.allenai.org/projects/visprog)
+  * **Vipergpt: Visual inference via python execution for reasoning (CVPR 2023)** [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/papers/Suris_ViperGPT_Visual_Inference_via_Python_Execution_for_Reasoning_ICCV_2023_paper.pdf) [[Code]](https://github.com/cvlab-columbia/viper)
 ### RL based
-  * **HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning (ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2403.12884)
-  * **Vision-r1: Incentivizing reasoning capability in multimodal large language models (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.06749) [[Code]](https://github.com/Osilly/Vision-R1)
-  * **Visual-rft: Visual reinforcement fine-tuning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.01785?)
-  * **Medvlm-r1: Incentivizing medical reasoning capability of vision-language models (vlms) via reinforcement learning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.19634)
+  * **HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning (ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2403.12884) [[Code]](https://github.com/ControlNet/HYDRA)
+  * **Vision-r1: Incentivizing reasoning capability in multimodal large language models (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.06749) [[Code]](https://github.com/Osilly/Vision-R1) [[Code]](https://github.com/Osilly/Vision-R1)
+  * **Visual-rft: Visual reinforcement fine-tuning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.01785?) [[Code]](https://github.com/Liuziyu77/Visual-RFT)
+  * **Medvlm-r1: Incentivizing medical reasoning capability of vision-language models (vlms) via reinforcement learning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.19634) [[Code]](https://huggingface.co/JZPeterPan/MedVLM-R1)
   * **VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2412.15544) [[Code]](https://zilin-huang.github.io/VLM-RL-website)
  ## Part 4: Lingual Reasoning
 
