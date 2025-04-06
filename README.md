@@ -36,6 +36,8 @@ Neuroscience Inspired Agent Reasoning Framework
     - [CoT based](#cot-based)
     - [RL based](#rl-based-1)
   - [Part 5: Auditory Reasoning](#part-5-auditory-reasoning)
+  - [Model/Multimodal Integration](#modelmultimodal-integration)
+  - [Counter Factual Learning](#counter-factual-learning)
   - [Part 6: Tactile Reasoning](#part-6-tactile-reasoning)
   - [Interaction-based Reasoning](#interaction-based-reasoning)
   - [Part 7: Reasoning based on Agent-Agent Interaction](#part-7-reasoning-based-on-agent-agent-interaction)
@@ -150,6 +152,16 @@ Neuroscience Inspired Agent Reasoning Framework
   * **KIMI K1.5:SCALING REINFORCEMENT LEARNING WITH LLMS (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.12599) [[Code]](https://github.com/MoonshotAI/Kimi-k1.5)
  
  ## Part 5: Auditory Reasoning
+## Model/Multimodal Integration
+ * **Joint audio and speech understanding (IEEE ASRU 2023)** [[Paper]](https://arxiv.org/abs/2309.14405) [[Code]](https://github.com/yuangongnd/ltu)
+ * **Listen, think, and understand (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2305.10790) [[Code]](https://github.com/YuanGongND/ltu)
+ * **Toward Explainable Physical Audiovisual Commonsense Reasoning (ACMMM 2024)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681074)
+ * **BAT: Learning to Reason about Spatial Sounds with Large Language Models (ICML 2024)** [[Paper]](https://arxiv.org/abs/2402.01591) [[Code]](https://zhishengzheng.com/BAT/)
+ * **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.11768) [[Code]](https://github.com/Sreyan88/GAMA)
+ * **What do MLLMs hear? Examining reasoning with text and sound components in Multimodal Large Language Models (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.04615)
+## Counter Factual Learning
+ * **Disentangled counterfactual learning for physical audiovisual commonsense reasoning (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/29571f8fda54fe93631c41aad4215abc-Abstract-Conference.html)
+ * **Learning Audio Concepts from Counterfactual Natural Language. (ICASSP 2024)** [[Paper]](https://arxiv.org/abs/2401.04935)
 
  ## Part 6: Tactile Reasoning
  ## Interaction-based Reasoning
