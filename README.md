@@ -1,4 +1,4 @@
-# Awesome-Neuroscience-Agent-Reasoning
+![image](https://github.com/user-attachments/assets/949d5cab-97b6-4e3f-a1a9-c9afe82ed74f)# Awesome-Neuroscience-Agent-Reasoning
 Neuroscience Inspired Agent Reasoning Framework
 
 ## 📢 News
@@ -90,14 +90,33 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering (EMNLP 2024 Findings)** [[Paper]](https://www.arxiv.org/abs/2409.16909)
  * **Temporal Reasoning Transfer from Text to Video (ICLR 2025)** [[Paper]](https://arxiv.org/abs/2410.06166) [[Code]](https://video-t3.github.io/)
  * **Timo: Towards Better Temporal Reasoning for Language Models (COLM 2024)** [[Paper]](https://arxiv.org/abs/2406.14192) [[Code]](https://github.com/zhaochen0110/Timo)
- * 
+ * **Momentor: Advancing Video Large Language Model with Fine-Grained Temporal Reasoning (ICML 2024)** [[Paper]](https://arxiv.org/abs/2402.11435) [[Code]](https://github.com/DCDmllm/Momentor)
+ * **Getting Sick After Seeing a Doctor? Diagnosing and Mitigating Knowledge Conflicts in Event Temporal Reasoning (NAACL 2024 Findings)** [[Paper]](https://arxiv.org/abs/2305.14970)
+ * **Temporal reasoning for timeline summarisation in social media (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2501.00152)
+ * **Video LLMs for Temporal Reasoning in Long Videos (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2412.02930)
+ * **Enhancing temporal knowledge graph forecasting with large language models via chain-of-history reasoning (ACL 2024 Findings)** [[Paper]](https://arxiv.org/abs/2402.14382)
 
 ### Graph based
  * **Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (ICML 2017)** [[Paper]](https://arxiv.org/abs/1705.05742)
  * **Event Graph Guided Compositional Spatial-Temporal Reasoning for Video Question Answering (IEEE TIP 2024)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418133/) [[Code]](https://github.com/ByZ0e/HSTT)
  * **Temporal knowledge graph reasoning with historical contrastive learning (AAAI 2023)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25601)
  * **Temporal inductive path neural network for temporal knowledge graph reasoning (Artificial Intelligence 2024)** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0004370224000213)
+ * **Large language models-guided dynamic adaptation for temporal knowledge graph reasoning (NeurIPS 2024 )** [[Paper]](https://arxiv.org/abs/2405.14170)
  * **An improving reasoning network for complex question answering over temporal knowledge graphs (Applied Intelligence 2023)** [[Paper]](https://link.springer.com/article/10.1007/s10489-022-03913-6)
+ * **Once Upon a Time in Graph: Relative-Time Pretraining for Complex Temporal Reasoning (EMNLP 2023)** [[Paper]](https://arxiv.org/abs/2310.14709) [[Code]](https://github.com/DAMO-NLP-SG/RemeMo)
+ * **Timegraphs: Graph-based temporal reasoning (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2401.03134)
+ * **Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs (ACL 2021)** [[Paper]](https://arxiv.org/abs/2106.00327)
+ * **Temporal knowledge graph reasoning based on evolutional representation learning (SiGIR 2021)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462963)
+ * **TempoQR: Temporal Question Reasoning over Knowledge Graphs (AAAI 2022)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20526)
+ * **Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs (NeurIPS 2022)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/6b295b08549c0441914e391651423477-Abstract-Conference.html)
+ * **THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs (TKDE 2024)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10705044)
+
+
+### Symbolic based
+* **Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution (CVPR 2021)**  [[Paper]](https://arxiv.org/abs/2103.14230) [[Code]](https://wellyzhang.github.io/project/prae.html)
+* **Teilp: Time prediction over knowledge graphs via logical reasoning (AAAI 2024)** [[Paper]](https://arxiv.org/abs/2312.15816) [[Code]](https://github.com/xiongsiheng/TEILP)
+* **Self-Supervised Logic Induction for Explainable Fuzzy Temporal Commonsense Reasoning (AAAI 2023)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26481) 
+
  ## Perception-based Reasoning
  ## Part 3: Visual Reasoning
 ### VLM based
@@ -197,6 +216,12 @@ Neuroscience Inspired Agent Reasoning Framework
  ### Temporal Reasoning
  * **AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR 2021)** [[Paper]](https://arxiv.org/abs/2103.16002)
  * **Timebench: A comprehensive evaluation of temporal reasoning abilities in large language models (ACL 2024)** [[Paper]](https://arxiv.org/abs/2311.17667) [[Code]](https://github.com/zchuz/TimeBench)
- * **TRAM: Benchmarking Temporal Reasoning for Large Language Models (ACL 2024 findings)** [[Paper]](https://arxiv.org/abs/2310.00835) [[Code]](https://github.com/EternityYW/TRAM-Benchmark)
- * **Towards benchmarking and improving the temporal reasoning capability of large language models (ACL 2023)**
+ * **TRAM: Benchmarking Temporal Reasoning for Large Language Models (ACL 2024 Findings)** [[Paper]](https://arxiv.org/abs/2310.00835) [[Code]](https://github.com/EternityYW/TRAM-Benchmark)
+ * **Towards benchmarking and improving the temporal reasoning capability of large language models (ACL 2023)** [[Paper]](https://arxiv.org/abs/2306.08952) [[Code]](https://github.com/DAMO-NLP-SG/TempReason)
+ * **MenatQA: A New Dataset for Testing the Temporal Comprehension and Reasoning Abilities of Large Language Models (EMNLP 2023 Findings)** [[Paper]](https://arxiv.org/abs/2310.05157) [[Code]](https://github.com/weiyifan1023/MenatQA)
+ * **Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.02763) [[Code]](https://vinoground.github.io/)
+ * **Generic Temporal Reasoning with Differential Analysis and Explanation (ACL 2023)** [[Paper]](https://arxiv.org/abs/2212.10467)
+ * **V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.11495)
+ * **MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning (ACL 2024 Findings)** [[Paper]](https://aclanthology.org/2024.findings-acl.696/)
+ 
  
