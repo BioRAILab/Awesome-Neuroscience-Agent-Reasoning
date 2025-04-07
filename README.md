@@ -62,6 +62,22 @@ Neuroscience Inspired Agent Reasoning Framework
 * **Weakly-supervised 3D Spatial Reasoning for Text-based Visual Question Answering (IEEE TIP 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10141570)
 * **Towards Grounded Visual Spatial Reasoning in Multi-Modal Vision Language Models (DMLR @ICLR 2024)** [[Paper]](https://arxiv.org/pdf/2308.09778)
 * **StarCraftImage: A Dataset for Prototyping Spatial Reasoning Methods for Multi-Agent Environments (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kulinski_StarCraftImage_A_Dataset_for_Prototyping_Spatial_Reasoning_Methods_for_Multi-Agent_CVPR_2023_paper.pdf)
+* **A Spatial Hierarchical Reasoning Network for Remote Sensing Visual Question Answering (IEEE 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10018408)
+* **Structured Spatial Reasoning with Open Vocabulary Object Detectors (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.07394)
+* **A Pilot Evaluation of ChatGPT and DALL-E 2 on Decision Making and Spatial Reasoning (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2302.09068)
+* **SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.10074) [[Code]](https://spatialcot.github.io/)
+* **Dialectical Language Model Evaluation: An Initial Appraisal of the Commonsense Spatial Reasoning Abilities of LLMs (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2304.11164)
+* **Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning (IJCAI 2024)** [[Paper]](https://arxiv.org/pdf/2405.15064)
+* **What's "Up" with Vision-Language Models? Investigating Their Struggle with Spatial Reasoning (EMNLP 2023)** [[Paper]](https://arxiv.org/pdf/2310.19785) [[Code]](https://github.com/amitakamath/whatsup_vlms)
+* **Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2409.09788) [[Code]]
+* **Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models (COLM 2024)** [[Paper]](https://openreview.net/pdf?id=Hvq9RtSoHG)
+* **GRASP: A Grid-Based Benchmark for Evaluating Commonsense Spatial Reasoning (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.01892?)
+* **Graph-Based Spatial Reasoning for Tracking Landmarks in Dynamic Laparoscopic Environments (IEEE RA-L)** [[Paper]]
+* **TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation (arXiv 2024)** [[Paper]]
+* **End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering (arXiv 2024)** [[Paper]]
+* **I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction (arXiv 2024)** [[Paper]]
+* **Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning (arXiv 2024)** [[Paper]]
+
 
 ## Part 2: Temporal Reasoning
 ### LLM based
