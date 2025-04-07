@@ -196,6 +196,7 @@ Neuroscience Inspired Agent Reasoning Framework
  * **BAT: Learning to Reason about Spatial Sounds with Large Language Models (ICML 2024)** [[Paper]](https://arxiv.org/abs/2402.01591) [[Code]](https://zhishengzheng.com/BAT/)
  * **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.11768) [[Code]](https://github.com/Sreyan88/GAMA)
  * **What do MLLMs hear? Examining reasoning with text and sound components in Multimodal Large Language Models (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.04615)
+ * 
 ### Counter Factual Learning
  * **Disentangled counterfactual learning for physical audiovisual commonsense reasoning (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/29571f8fda54fe93631c41aad4215abc-Abstract-Conference.html)
  * **Learning Audio Concepts from Counterfactual Natural Language. (ICASSP 2024)** [[Paper]](https://arxiv.org/abs/2401.04935)
@@ -207,9 +208,14 @@ Neuroscience Inspired Agent Reasoning Framework
  ## Part 8: Reasoning based on Agent-Human Interaction
  ## Logic-based Reasoning
  ## Part 9: Inductive Reasoning
-
+ * **Inductive reasoning in humans and large language models (Cognitive Systems Research 2024)** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041723000839)
+ * **Hypothesis Search: Inductive Reasoning with Language Models (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2309.05660) [[Code]](https://github.com/Relento/hypothesis_search)
+ * **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2310.08559)
+ * **Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.00114)
  ## Part 10: Deductive Reasoning
-
+ *  **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code]](https://github.com/lz1oceani/verify_cot)
+ *  **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
+ *  **Certified Deductive Reasoning with Language Models (TMLR)** [[Paper]](https://arxiv.org/abs/2306.04031)
  ## Part 11: Abductive Reasoning
  
  ## Benchmark
