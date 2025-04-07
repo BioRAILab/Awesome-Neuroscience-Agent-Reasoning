@@ -89,6 +89,8 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Back to the future: Towards explainable temporal reasoning with large language models (WWW 2024)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645376)
  * **Enhancing Temporal Sensitivity and Reasoning for Time-Sensitive Question Answering (EMNLP 2024 Findings)** [[Paper]](https://www.arxiv.org/abs/2409.16909)
  * **Temporal Reasoning Transfer from Text to Video (ICLR 2025)** [[Paper]](https://arxiv.org/abs/2410.06166) [[Code]](https://video-t3.github.io/)
+ * **Timo: Towards Better Temporal Reasoning for Language Models (COLM 2024)** [[Paper]](https://arxiv.org/abs/2406.14192) [[Code]](https://github.com/zhaochen0110/Timo)
+ * 
 
 ### Graph based
  * **Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs (ICML 2017)** [[Paper]](https://arxiv.org/abs/1705.05742)
@@ -191,4 +193,10 @@ Neuroscience Inspired Agent Reasoning Framework
 
  ## Part 11: Abductive Reasoning
  
- ## Evaluation&Benchmark
+ ## Benchmark
+ ### Temporal Reasoning
+ * **AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR 2021)** [[Paper]](https://arxiv.org/abs/2103.16002)
+ * **Timebench: A comprehensive evaluation of temporal reasoning abilities in large language models (ACL 2024)** [[Paper]](https://arxiv.org/abs/2311.17667) [[Code]](https://github.com/zchuz/TimeBench)
+ * **TRAM: Benchmarking Temporal Reasoning for Large Language Models (ACL 2024 findings)** [[Paper]](https://arxiv.org/abs/2310.00835) [[Code]](https://github.com/EternityYW/TRAM-Benchmark)
+ * **Towards benchmarking and improving the temporal reasoning capability of large language models (ACL 2023)**
+ 
