@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/949d5cab-97b6-4e3f-a1a9-c9afe82ed74f)# Awesome-Neuroscience-Agent-Reasoning
+# Awesome-Neuroscience-Agent-Reasoning
 Neuroscience Inspired Agent Reasoning Framework
 
 ## 📢 News
@@ -174,7 +174,7 @@ Neuroscience Inspired Agent Reasoning Framework
   * **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning (NAACL 2024)** [[Paper]](https://arxiv.org/abs/2311.09724) [[Code]](https://github.com/FreedomIntelligence/OVM)
   * **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.18629) [[Code]](https://github.com/dvlab-research/Step-DPO)
   * **AutoPSV: Automated Process-Supervised Verifier (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.16802) [[Code]](https://github.com/rookie-joe/AutoPSV)
-  * **ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.03816) [[Code]](https://github.com/THUDM/ReST-MCTS)
+  * **ReST-MCTS: LLM Self-Training via Process Reward Guided Tree Search (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.03816) [[Code]](https://github.com/THUDM/ReST-MCTS)
   * **Improve Mathematical Reasoning in Language Models by Automated Process Supervision (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.06592) [[Code]](https://github.com/sanowl/OmegaPRM)
   * **DeepSeek-R1: Incentivising Reasoning Capability in LLMs via Reinforcement Learning (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.12948) [[Code]](https://github.com/deepseek-ai/DeepSeek-R1)
   * **Reasoning with Reinforced Functional Token Tuning (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2502.13389) [[Code]](https://github.com/sastpg/RFTT)
@@ -207,16 +207,30 @@ Neuroscience Inspired Agent Reasoning Framework
 
  ## Part 8: Reasoning based on Agent-Human Interaction
  ## Logic-based Reasoning
+ * **The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision** [[Paper]](https://arxiv.org/abs/1904.12584) [[Code]](http://nscl.csail.mit.edu/)
+ * **Deeplogic: Joint learning of neural perception and logical reasoning (TPAMI 2022)** [[Paper]](https://ieeexplore.ieee.org/document/9831049)
+ * **A survey on neural-symbolic learning systems (Neural Networks)** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608023003398)
+ * **Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning (EMNLP 2023 Findings)** [[Paper]](https://arxiv.org/abs/2305.12295) [[Code]](https://github.com/teacherpeterpan/Logic-LLM)
+ * **LogicAsker: Evaluating and Improving the Logical Reasoning Ability of Large Language Models  (EMNLP 2024)** [[Paper]](https://arxiv.org/abs/2401.00757) [[Code]](https://github.com/yxwan123/LogicAsker)
+ * **Faithful Logical Reasoning via Symbolic Chain-of-Thought (ACL 2024)** [[Paper]](https://arxiv.org/abs/2405.18357) [[Code]](https://github.com/Aiden0526/SymbCoT)
+ * **Generalization on the Unseen, Logic Reasoning and Degree Curriculum (JMLR 2024)** [[Paper]](https://www.jmlr.org/papers/v25/24-0220.html)
+ * **LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers (EMNLP 2023)** [[Paper]](https://arxiv.org/abs/2310.15164) [[Code]](https://github.com/benlipkin/linc)
+ * 
+
  ## Part 9: Inductive Reasoning
  * **Inductive reasoning in humans and large language models (Cognitive Systems Research 2024)** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041723000839)
  * **Hypothesis Search: Inductive Reasoning with Language Models (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2309.05660) [[Code]](https://github.com/Relento/hypothesis_search)
  * **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2310.08559)
  * **Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.00114)
  ## Part 10: Deductive Reasoning
- *  **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code]](https://github.com/lz1oceani/verify_cot)
- *  **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
- *  **Certified Deductive Reasoning with Language Models (TMLR)** [[Paper]](https://arxiv.org/abs/2306.04031)
+ * **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code]](https://github.com/lz1oceani/verify_cot)
+ * **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
+ * **Certified Deductive Reasoning with Language Models (TMLR 2024)** [[Paper]](https://arxiv.org/abs/2306.04031)
  ## Part 11: Abductive Reasoning
+ * **Multi-modal action chain abductive reasoning (ACL 2023)** [[Paper]](https://aclanthology.org/2023.acl-long.254/)
+ * **Visual Abductive Reasoning (CVPR 2022)** [[Paper]](https://arxiv.org/abs/2203.14040) [[Code]](https://github.com/leonnnop/VAR)
+ * **Language models can improve event prediction by few-shot abductive reasoning (NeurIPS 2023)** [[Paper]](https://arxiv.org/abs/2305.16646)
+ * **
  
  ## Benchmark
  ### Temporal Reasoning
@@ -229,5 +243,7 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Generic Temporal Reasoning with Differential Analysis and Explanation (ACL 2023)** [[Paper]](https://arxiv.org/abs/2212.10467)
  * **V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.11495)
  * **MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning (ACL 2024 Findings)** [[Paper]](https://aclanthology.org/2024.findings-acl.696/)
- 
+ ### Logical Reasoning
+ * **Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2304.03439) [[Code]](https://github.com/csitfun/LogiEval)
+ * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning (ACL 2022 Findings)** [[Paper]](https://arxiv.org/abs/2203.10244)  [[Code]](https://github.com/vis-nlp/ChartQA)
  
