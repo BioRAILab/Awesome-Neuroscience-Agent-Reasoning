@@ -202,6 +202,11 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Learning Audio Concepts from Counterfactual Natural Language. (ICASSP 2024)** [[Paper]](https://arxiv.org/abs/2401.04935)
 
  ## Part 6: Tactile Reasoning
+ * **Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.04693?) [[Code]](https://github.com/fuse-model/FuSe)
+ * **Octopi: Object Property Reasoning with Large Tactile-Language Models (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.02794) [[Code]](https://github.com/clear-nus/octopi)
+ * **TALON: Improving Large Language Model Cognition with Tactility-Vision Fusion (ICIEA 2024)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10665031)
+ * **Vision-language model-based physical reasoning for robot liquid perception (IROS 2024)** [[Paper]](https://arxiv.org/pdf/2404.06904)
+   
  ## Interaction-based Reasoning
  ## Part 7: Reasoning based on Agent-Agent Interaction
 
@@ -246,4 +251,14 @@ Neuroscience Inspired Agent Reasoning Framework
  ### Logical Reasoning
  * **Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2304.03439) [[Code]](https://github.com/csitfun/LogiEval)
  * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning (ACL 2022 Findings)** [[Paper]](https://arxiv.org/abs/2203.10244)  [[Code]](https://github.com/vis-nlp/ChartQA)
+ ### Visual Reasoning
+ * **Vqa: Visual question answering (CVPR 2015)** [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
+ * **Making the v in vqa matter: Elevating the role of image understanding in visual question answering (CVPR 2017)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf) [[Code]](http://visualqa.org/)
+ * **Gqa: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)
+ * **Roses Are Red, Violets Are Blue... but Should VQA Expect Them To? (CVPR 2021)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kervadec_Roses_Are_Red_Violets_Are_Blue..._but_Should_VQA_Expect_CVPR_2021_paper.pdf)
+ * **A corpus for reasoning about natural language grounded in photographs (arXiv 2018)** [[Paper]](https://arxiv.org/pdf/1811.00491) [[Code]](https://lil.nlp.cornell.edu/nlvr/)
+ * **Super-clevr: A virtual benchmark to diagnose domain robustness in visual reasoning (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Super-CLEVR_A_Virtual_Benchmark_To_Diagnose_Domain_Robustness_in_Visual_CVPR_2023_paper.pdf) [[Code]](https://github. com/Lizw14/Super-CLEVR)
+ * **Ok-vqa: A visual question answering benchmark requiring external knowledge (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)
+ * **A-okvqa: A benchmark for visual question answering using world knowledge (ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2206.01718) [[Code]](https://github.com/allenai/aokvqa)
+ * **Clevr: A diagnostic dataset for compositional language and elementary visual reasoning (CVPR 2017)** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf) [[Code]](https://cs.stanford.edu/people/jcjohns/clevr/)
  
