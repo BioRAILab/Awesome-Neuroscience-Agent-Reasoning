@@ -213,13 +213,15 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Roco: Dialectic multi-robot collaboration with large language models (ICRA 2024)** [[Paper]](https://arxiv.org/pdf/2307.04738)
  * **Chateval: Towards better llm-based evaluators through multi-agent debate (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2308.07201)
  * **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate (EMNLP 2024)** [[Paper]](https://arxiv.org/pdf/2305.19118)
- * **Chateval: Towards better llm-based evaluators through multi-agent debate (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2308.07201)
+ * **CaPo: Cooperative Plan Optimization for Efficient Embodied Multi-Agent Cooperation (ICLR 2025)** [[Paper]](https://arxiv.org/pdf/2411.04679?) [[Code]](https://github.com/jliu4ai/CaPo)
+ * **Building cooperative embodied agents modularly with large language models (ICLR 2024)** [[Paper]](https://arxiv.org/pdf/2307.02485) [[Code]](https://vis-www.cs.umass.edu/Co-LLM-Agents/)
 
  ## Part 8: Reasoning based on Agent-Human Interaction
  * **A virtual conversational agent for teens with autism spectrum disorder: Experimental results and design lessons (ACM 2020)** [[Paper]](https://arxiv.org/pdf/1811.03046)
  * **Peer: A collaborative language model (arXiv 2022)** [[Paper]](https://arxiv.org/pdf/2208.11663)
  * **SAPIEN: Affective Virtual Agents Powered by Large Language Models (ACIIW 2023)** [[Paper]](https://arxiv.org/pdf/2308.03022)
  * **Human-level play in the game of Diplomacy by combining language models with strategic reasoning (Science 2022)** [[Paper]](https://www.science.org/doi/pdf/10.1126/science.ade9097)
+ * **Language grounded multi-agent reinforcement learning with human-interpretable communication (NeurIPS 2024)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/a06e129e01e0d2ef853e9ff67b911360-Paper-Conference.pdf)
  
  ## Logic-based Reasoning
  * **The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision** [[Paper]](https://arxiv.org/abs/1904.12584) [[Code]](http://nscl.csail.mit.edu/)
