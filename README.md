@@ -209,8 +209,18 @@ Neuroscience Inspired Agent Reasoning Framework
    
  ## Interaction-based Reasoning
  ## Part 7: Reasoning based on Agent-Agent Interaction
+ * **Dera: enhancing large language model completions with dialog-enabled resolving agents (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2303.17071) [[Code]](https://github.com/curai/curai-research/tree/main/DERA)
+ * **Roco: Dialectic multi-robot collaboration with large language models (ICRA 2024)** [[Paper]](https://arxiv.org/pdf/2307.04738)
+ * **Chateval: Towards better llm-based evaluators through multi-agent debate (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2308.07201)
+ * **Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate (EMNLP 2024)** [[Paper]](https://arxiv.org/pdf/2305.19118)
+ * **Chateval: Towards better llm-based evaluators through multi-agent debate (arXiv 2023)** [[Paper]](https://arxiv.org/pdf/2308.07201)
 
  ## Part 8: Reasoning based on Agent-Human Interaction
+ * **A virtual conversational agent for teens with autism spectrum disorder: Experimental results and design lessons (ACM 2020)** [[Paper]](https://arxiv.org/pdf/1811.03046)
+ * **Peer: A collaborative language model (arXiv 2022)** [[Paper]](https://arxiv.org/pdf/2208.11663)
+ * **SAPIEN: Affective Virtual Agents Powered by Large Language Models (ACIIW 2023)** [[Paper]](https://arxiv.org/pdf/2308.03022)
+ * **Human-level play in the game of Diplomacy by combining language models with strategic reasoning (Science 2022)** [[Paper]](https://www.science.org/doi/pdf/10.1126/science.ade9097)
+ 
  ## Logic-based Reasoning
  * **The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision** [[Paper]](https://arxiv.org/abs/1904.12584) [[Code]](http://nscl.csail.mit.edu/)
  * **Deeplogic: Joint learning of neural perception and logical reasoning (TPAMI 2022)** [[Paper]](https://ieeexplore.ieee.org/document/9831049)
