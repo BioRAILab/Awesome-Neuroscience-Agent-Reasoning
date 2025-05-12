@@ -60,6 +60,9 @@ The overview of the reasoning process and classification of reasoning behavior f
   - [Part 10: Deductive Reasoning](#part-10-deductive-reasoning)
   - [Part 11: Abductive Reasoning](#part-11-abductive-reasoning)
   - [Evaluation\&Benchmark](#evaluationbenchmark)
+
+![image](./figures/taxonomy.png)
+Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarchical structure organizes reasoning methods in artificial agents based on cognitive mechanisms inspired by neuroscience, including dimensional, perceptual, logical, and interactive reasoning, highlighting the integration of biologically plausible mechanisms into artificial intelligence systems. This taxonomy highlights how agents can emulate human-like reasoning across diverse tasks and environments.
 ## Dimension-based Reasoning
 ## Part 1: Spatial Reasoning
 * **Visual Spatial Reasoning (TACL 2023)** [[Paper]](https://doi.org/10.1162/tacl_a_00566)
