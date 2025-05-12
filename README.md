@@ -10,6 +10,8 @@ Neuroscience Inspired Agent Reasoning Framework
 ## Agentic Reasoning: A Novel Systematic Framework and Survey from Neuroscience Perspective
 
 ![image](./figures/reasoning_process.png)
+![image](./figures/overview.png)
+The overview of the reasoning process and classification of reasoning behavior from a neuro-perspective. This diagram presents a comprehensive framework of reasoning inspired by human cognitive and neural mechanisms. At the center, a hierarchical reasoning pipeline, spanning data sensory input, information processing, higher-order cognition, and conclusion generation, mirrors the flow of information in biological systems. Surrounding this core are five major categories of reasoning behaviors: perceptual reasoning, driven by multisensory integration; dimensional reasoning, encompassing spatial and temporal inference; relation reasoning, involving analogical thinking and relational matching; logical reasoning, covering inductive, deductive, and abductive logic; and interactive reasoning, focusing on agent-agent and agent-human collaboration within dynamic environments. Together, these components establish a neuro-cognitively grounded taxonomy that bridges biological inspiration and computational implementation in artificial intelligence systems.
 
 ## Latest Reasoning Surveys
 * **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey (arXiv 2025)**
