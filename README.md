@@ -1,4 +1,8 @@
 # Awesome-Neuroscience-Agent-Reasoning
+[![arXiv](https://img.shields.io/badge/arXiv-2505.05515-red)](https://arxiv.org/abs/2505.05515)
+[![Maintenance](https://img.shields.io/badge/Maintenance-%E2%9C%93-yellowgreen)](#maintenance)
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen)](#discussion)      
+
 Neuroscience Inspired Agent Reasoning Framework
 
 ## 📢 News
@@ -8,12 +12,19 @@ Neuroscience Inspired Agent Reasoning Framework
 ![image](./figures/reasoning_process.png)
 
 ## Latest Reasoning Surveys
-* **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.12605) [[Code]](https://github.com/yaotingwangofficial/Awesome-MCoT)
-* **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.16419) [[Code]](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
-* **From System 1 to System 2: A Survey of Reasoning Large Language Models (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2502.17419) [[Code]](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
-* **A Survey of Reasoning with Foundation Models (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2312.11562) [[Code]](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
-
-
+* **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey (arXiv 2025)**
+  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.12605)
+  [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/yaotingwangofficial/Awesome-MCoT)
+* **Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models (arXiv 2025)**
+  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.16419)
+  [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs)
+* **From System 1 to System 2: A Survey of Reasoning Large Language Models (arXiv 2025)** 
+  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2502.17419)
+  [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
+* **A Survey of Reasoning with Foundation Models (arXiv 2023)**
+  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2312.11562)
+  [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
+  
 
 ## Agent Reasoning Framework
 - [Awesome-Neuroscience-Agent-Reasoning](#awesome-neuroscience-agent-reasoning)
