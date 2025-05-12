@@ -311,7 +311,12 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
  * **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning (ECCV 2022)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_32) [[Code]](https://github.com/allenai/sherlock)
  * **True Detective: A Deep Abductive Reasoning Benchmark Undoable for GPT-3 and Challenging for GPT-4 (arXiv 2022)** [[Paper]](https://arxiv.org/abs/2212.10114)[[Code]](https://github.com/TartuNLP/true-detective)
  * **From LSAT: The Progress and Challenges of Complex Reasoning (TASLP 2021)** [[Paper]](https://arxiv.org/abs/2108.00648) [[Code]](https://github.com/zhongwanjun/AR-LSAT)
- * 
+ * **Training Verifiers to Solve Math Word Problems (arXiv 2021)** [[Paper]](https://arxiv.org/abs/2110.14168) [[Code]](https://huggingface.co/datasets/openai/gsm8k)
+ * **LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low-Resource and Extinct Languages (NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2406.06196) [[Code]](https://github.com/am-bean/lingOly)
+ * **LogicBench: Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models (ACL 2024)** [[Paper]](https://arxiv.org/abs/2404.15522) [[Code]](https://github.com/Mihir3009/LogicBench)
+ * **FOLIO: Natural Language Reasoning with First-Order Logic (EMNLP 2024)** [[Paper]](https://arxiv.org/abs/2209.00840) [[Code]](https://github.com/Yale-LILY/FOLIO)
+ * **Diagnosing the First-Order Logical Reasoning Ability Through LogicNLI (EMNLP 2021)** [[Paper]](https://aclanthology.org/2021.emnlp-main.303/) [[Code]](https://github.com/omnilabNLP/LogicNLI)
+ * **Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing Logical Reasoning Capabilities of Language Models (arXiv 2023)**[[Paper]](https://arxiv.org/abs/2310.00836)
  ### Visual Reasoning
  * **Vqa: Visual question answering (CVPR 2015)** [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
  * **Making the v in vqa matter: Elevating the role of image understanding in visual question answering (CVPR 2017)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf) [[Code]](http://visualqa.org/)
