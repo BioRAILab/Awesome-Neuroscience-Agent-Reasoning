@@ -232,22 +232,37 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Faithful Logical Reasoning via Symbolic Chain-of-Thought (ACL 2024)** [[Paper]](https://arxiv.org/abs/2405.18357) [[Code]](https://github.com/Aiden0526/SymbCoT)
  * **Generalization on the Unseen, Logic Reasoning and Degree Curriculum (JMLR 2024)** [[Paper]](https://www.jmlr.org/papers/v25/24-0220.html)
  * **LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers (EMNLP 2023)** [[Paper]](https://arxiv.org/abs/2310.15164) [[Code]](https://github.com/benlipkin/linc)
- * 
+ * **Complex Logical Reasoning over Knowledge Graphs using Large Language Models (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2305.01157) [[Code]](https://github.com/Akirato/LLM-KG-Reasoning)
+ * **Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming 	(ACL 2023 Findings)** [[Paper]](https://arxiv.org/abs/2305.03742) [[Code]](https://github.com/moqingyan/dsr-lm)
+ * **GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models (ICLR 2025)** [[Paper]](https://arxiv.org/abs/2410.05229)
+ * **Premise Order Matters in Reasoning with Large Language Models (ICML 2024)** [[Paper]](https://arxiv.org/abs/2402.08939)
 
  ## Part 9: Inductive Reasoning
  * **Inductive reasoning in humans and large language models (Cognitive Systems Research 2024)** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041723000839)
  * **Hypothesis Search: Inductive Reasoning with Language Models (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2309.05660) [[Code]](https://github.com/Relento/hypothesis_search)
  * **Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement (ICLR 2024)** [[Paper]](https://arxiv.org/abs/2310.08559)
  * **Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs (arXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.00114)
+ * **Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction (SIGIR 2022)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531996?casa_token=m09kWvprmhAAAAAA:xEab14NKkrr-XnJza23x62h8lVJO0uqpJB1JTntn6h9Y6jbYpuhiMVSi2Mut-uRpotjMkdfNfcLzQw)
+
  ## Part 10: Deductive Reasoning
- * **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code]](https://github.com/lz1oceani/verify_cot)
+ * **Audio Entailment: Assessing Deductive Reasoning for Audio Understanding (AAAI 2025)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34548)
+ * **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code](https://github.com/lz1oceani/verify_cot)
  * **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples (NeurIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
- * **Certified Deductive Reasoning with Language Models (TMLR 2024)** [[Paper]](https://arxiv.org/abs/2306.04031)
+ * **Certified Deductive Reasoning with Language Models (TMLR 2024)** [[Paper]](https://arxiv.org/abs/2306.04031)[[Code]](https://github.com/gpoesia/certified-reasoning)
+ * **How Far Are We from Intelligent Visual Deductive Reasoning? (CoLM 2024)** [[Paper]](https://arxiv.org/abs/2403.04732) [[Code]](https://github.com/apple/ml-rpm-bench)
+ * **Learning deductive reasoning from synthetic corpus based on formal logic (ICML 2023)** [[Paper]](https://proceedings.mlr.press/v202/morishita23a.html)
+ * **Strategic deductive reasoning in large language models: A dual-agent approach (ICPICS 2024)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10797012)
+ * **Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation (IJCLR-NeSy 2022)** [[Paper]](https://arxiv.org/abs/2207.14000) [[Code]](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language)
+   
  ## Part 11: Abductive Reasoning
  * **Multi-modal action chain abductive reasoning (ACL 2023)** [[Paper]](https://aclanthology.org/2023.acl-long.254/)
  * **Visual Abductive Reasoning (CVPR 2022)** [[Paper]](https://arxiv.org/abs/2203.14040) [[Code]](https://github.com/leonnnop/VAR)
  * **Language models can improve event prediction by few-shot abductive reasoning (NeurIPS 2023)** [[Paper]](https://arxiv.org/abs/2305.16646)
- * **
+ * **Abductive Reasoning in Logical Credal Networks (Neurips 2024)** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7d7020e945935214d756cd9a65c43170-Abstract-Conference.html)
+ * **Towards Learning Abductive Reasoning Using VSA Distributed Representations (NeSy 2024)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-71167-1_20) [[Code]](https://github.com/IBM/abductive-rule-learner-with-context-awareness)
+ * **Language models can improve event prediction by few-shot abductive reasoning (NeruIPS 2023)** [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5e5fd18f863cbe6d8ae392a93fd271c9-Abstract-Conference.html)
+ 
+
  
  ## Benchmark
  ### Temporal Reasoning
@@ -261,8 +276,15 @@ Neuroscience Inspired Agent Reasoning Framework
  * **V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.11495)
  * **MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning (ACL 2024 Findings)** [[Paper]](https://aclanthology.org/2024.findings-acl.696/)
  ### Logical Reasoning
+ * **CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text (EMNLP 2019)** [[Paper]](https://arxiv.org/abs/1908.06177) [[Code]](https://github.com/facebookresearch/clutrr)
+ * **ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning (ICLR 2020)** [[Paper]](https://arxiv.org/abs/2002.04326) [[Code]](https://whyu.me/reclor/)
  * **Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4 (arXiv 2023)** [[Paper]](https://arxiv.org/abs/2304.03439) [[Code]](https://github.com/csitfun/LogiEval)
  * **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning (ACL 2022 Findings)** [[Paper]](https://arxiv.org/abs/2203.10244)  [[Code]](https://github.com/vis-nlp/ChartQA)
+ * **Logiqa 2.0—an improved dataset for logical reasoning in natural language understanding (TASLP 2023)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10174688) [[Code]](https://github.com/csitfun/LogiQA2.0)
+ * **The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning (ECCV 2022)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_32) [[Code]](https://github.com/allenai/sherlock)
+ * **True Detective: A Deep Abductive Reasoning Benchmark Undoable for GPT-3 and Challenging for GPT-4 (arXiv 2022)** [[Paper]](https://arxiv.org/abs/2212.10114)[[Code]](https://github.com/TartuNLP/true-detective)
+ * **From LSAT: The Progress and Challenges of Complex Reasoning (TASLP 2021)** [[Paper]](https://arxiv.org/abs/2108.00648) [[Code]](https://github.com/zhongwanjun/AR-LSAT)
+ * 
  ### Visual Reasoning
  * **Vqa: Visual question answering (CVPR 2015)** [[Paper]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
  * **Making the v in vqa matter: Elevating the role of image understanding in visual question answering (CVPR 2017)** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Goyal_Making_the_v_CVPR_2017_paper.pdf) [[Code]](http://visualqa.org/)
