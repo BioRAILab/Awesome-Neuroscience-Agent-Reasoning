@@ -273,4 +273,10 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Ok-vqa: A visual question answering benchmark requiring external knowledge (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)
  * **A-okvqa: A benchmark for visual question answering using world knowledge (ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2206.01718) [[Code]](https://github.com/allenai/aokvqa)
  * **Clevr: A diagnostic dataset for compositional language and elementary visual reasoning (CVPR 2017)** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf) [[Code]](https://cs.stanford.edu/people/jcjohns/clevr/)
- 
+### Tactile Reasoning
+* **Transferable tactile transformers for representation learning across diverse sensors and tasks (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2406.13640) [[Code]](https://t3.alanz.info/)
+* **Touch100k: A large-scale touch-language-vision dataset for touch-centric multimodal representation (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2406.03813) [[Code]](https://cocacola-lab.github.io/Touch100k/)
+* **Anytouch: Learning unified static-dynamic representation across multiple visuo-tactile sensors (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.12191) [[Code]](https://gewu-lab.github.io/AnyTouch/)
+* **Beyond sight: Finetuning generalist robot policies with heterogeneous sensors via language grounding (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.04693?) [[Code]](https://arxiv.org/pdf/2501.04693?)
+### Auditory Reasoning
+* **Audiocaps: Generating captions for audios in the wild (NAACL 2019)** [[Paper]](https://aclanthology.org/N19-1011.pdf) [[Code]](https://audiocaps.github.io/)
