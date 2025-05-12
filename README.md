@@ -3,7 +3,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintenance-%E2%9C%93-yellowgreen)](#maintenance)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen)](#discussion)      
 
-Neuroscience Inspired Agent Reasoning Framework
+## Awesome-Neuroscience-Agent-Reasoning
 
 ## 📢 News
 - __[2025.5.7]__: 🔥🔥  We released our survey [Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience](https://arxiv.org/abs/2505.05515) ! This is the **first** survey to systematically explore **agentic reasoning** from a **neuroscience** perspective, introducing a **comprehensive framework** that spans **sensory input to motor execution**. It bridges AI reasoning and brain mechanisms, offering a foundation for **future agent studies**.
@@ -35,7 +35,7 @@ The overview of the reasoning process and classification of reasoning behavior f
 ## Agent Reasoning Framework
 - [Awesome-Neuroscience-Agent-Reasoning](#awesome-neuroscience-agent-reasoning)
   - [📢 News](#-news)
-  - [Agentic Reasoning: A Novel Systematic Framework and Survey from Neuroscience Perspective](#agentic-reasoning-a-novel-systematic-framework-and-survey-from-neuroscience-perspective)
+  - [Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience](#natures-insight-a-novel-framework-and-comprehensive-analysis-of-agentic-reasoning-through-the-lens-of-neuroscience)
   - [Latest Reasoning Surveys](#latest-reasoning-surveys)
   - [Agent Reasoning Framework](#agent-reasoning-framework)
   - [Perception-based Reasoning](#perception-based-reasoning)
@@ -63,7 +63,7 @@ The overview of the reasoning process and classification of reasoning behavior f
   - [Interaction-based Reasoning](#interaction-based-reasoning)
   - [Part 10: Reasoning based on Agent-Agent Interaction](#part-10-reasoning-based-on-agent-agent-interaction)
   - [Part 11: Reasoning based on Agent-Human Interaction](#part-11-reasoning-based-on-agent-human-interaction)
-  - [Evaluation\&Benchmark](#evaluationbenchmark)
+  - [Benchmark](#benchmark)
 
 ![image](./figures/taxonomy.png)
 Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarchical structure organizes reasoning methods in artificial agents based on cognitive mechanisms inspired by neuroscience, including dimensional, perceptual, logical, and interactive reasoning, highlighting the integration of biologically plausible mechanisms into artificial intelligence systems. This taxonomy highlights how agents can emulate human-like reasoning across diverse tasks and environments.
@@ -320,7 +320,7 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
  * **CoDraw: Collaborative drawing as a testbed for grounded goal-driven communication (ACL 2019)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/pdf?id=r1GkMhAqYm) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/facebookresearch/CoDraw)
  * **Touchdown: Natural language navigation and spatial reasoning in visual street environments (CVPR 2019)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_TOUCHDOWN_Natural_Language_Navigation_and_Spatial_Reasoning_in_Visual_Street_CVPR_2019_paper.pdf) [![Code](https://img.shields.io/badge/Code-yellow)](https://touchdown.ai./)
  * **Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments (CVPR 2018)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) [![Code](https://img.shields.io/badge/Code-yellow)](https://bringmeaspoon.org/)
- * **Spatialsense: An adversarially crowdsourced benchmark for spatial relation recognition (CVPR 2018)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SpatialSense_An_Adversarially_Crowdsourced_Benchmark_for_Spatial_Relation_Recognition_ICCV_2019_paper.pdf) [![Code](https://img.shields.io/badge/Code-yellow)](https://github. com/princeton-vl/SpatialSense)
+ * **Spatialsense: An adversarially crowdsourced benchmark for spatial relation recognition (CVPR 2018)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SpatialSense_An_Adversarially_Crowdsourced_Benchmark_for_Spatial_Relation_Recognition_ICCV_2019_paper.pdf) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/princeton-vl/SpatialSense)
  ### Temporal Reasoning
  * **AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning (CVPR 2021)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2103.16002)
  * **Timebench: A comprehensive evaluation of temporal reasoning abilities in large language models (ACL 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2311.17667) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/zchuz/TimeBench)
