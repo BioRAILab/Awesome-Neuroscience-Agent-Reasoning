@@ -275,6 +275,13 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Generic Temporal Reasoning with Differential Analysis and Explanation (ACL 2023)** [[Paper]](https://arxiv.org/abs/2212.10467)
  * **V-STaR: Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning (arXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.11495)
  * **MusTQ: A Temporal Knowledge Graph Question Answering Dataset for Multi-Step Temporal Reasoning (ACL 2024 Findings)** [[Paper]](https://aclanthology.org/2024.findings-acl.696/)
+ ### Spatial Reasoning
+ * **Raven: A dataset for relational and analogical visual reasoning (CVPR 2019)** [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_RAVEN_A_Dataset_for_Relational_and_Analogical_Visual_REasoNing_CVPR_2019_paper.pdf)
+ * **Grit: General robust image task benchmark (NeurIPS 2022)** [[Paper]](https://arxiv.org/pdf/2204.13653) [[Code]](https://github.com/allenai/grit_official)
+ * **CoDraw: Collaborative drawing as a testbed for grounded goal-driven communication (ACL 2019)** [[Paper]](https://openreview.net/pdf?id=r1GkMhAqYm) [[Code]](https://github.com/facebookresearch/CoDraw)
+ * **Touchdown: Natural language navigation and spatial reasoning in visual street environments (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_TOUCHDOWN_Natural_Language_Navigation_and_Spatial_Reasoning_in_Visual_Street_CVPR_2019_paper.pdf) [[Code]](https://touchdown.ai./)
+ * **Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments (CVPR 2018)** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf) [[Code]](https://bringmeaspoon.org/)
+ * **Spatialsense: An adversarially crowdsourced benchmark for spatial relation recognition (CVPR 2018)** [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SpatialSense_An_Adversarially_Crowdsourced_Benchmark_for_Spatial_Relation_Recognition_ICCV_2019_paper.pdf) [[Code]](https://github. com/princeton-vl/SpatialSense)
  ### Logical Reasoning
  * **CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text (EMNLP 2019)** [[Paper]](https://arxiv.org/abs/1908.06177) [[Code]](https://github.com/facebookresearch/clutrr)
  * **ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning (ICLR 2020)** [[Paper]](https://arxiv.org/abs/2002.04326) [[Code]](https://whyu.me/reclor/)
@@ -291,10 +298,20 @@ Neuroscience Inspired Agent Reasoning Framework
  * **Gqa: A new dataset for real-world visual reasoning and compositional question answering (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Hudson_GQA_A_New_Dataset_for_Real-World_Visual_Reasoning_and_Compositional_CVPR_2019_paper.pdf)
  * **Roses Are Red, Violets Are Blue... but Should VQA Expect Them To? (CVPR 2021)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Kervadec_Roses_Are_Red_Violets_Are_Blue..._but_Should_VQA_Expect_CVPR_2021_paper.pdf)
  * **A corpus for reasoning about natural language grounded in photographs (arXiv 2018)** [[Paper]](https://arxiv.org/pdf/1811.00491) [[Code]](https://lil.nlp.cornell.edu/nlvr/)
- * **Super-clevr: A virtual benchmark to diagnose domain robustness in visual reasoning (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Super-CLEVR_A_Virtual_Benchmark_To_Diagnose_Domain_Robustness_in_Visual_CVPR_2023_paper.pdf) [[Code]](https://github. com/Lizw14/Super-CLEVR)
+ * **Super-clevr: A virtual benchmark to diagnose domain robustness in visual reasoning (CVPR 2023)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Super-CLEVR_A_Virtual_Benchmark_To_Diagnose_Domain_Robustness_in_Visual_CVPR_2023_paper.pdf) [[Code]](https://github.com/Lizw14/Super-CLEVR)
  * **Ok-vqa: A visual question answering benchmark requiring external knowledge (CVPR 2019)** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.pdf)
  * **A-okvqa: A benchmark for visual question answering using world knowledge (ECCV 2022)** [[Paper]](https://arxiv.org/pdf/2206.01718) [[Code]](https://github.com/allenai/aokvqa)
  * **Clevr: A diagnostic dataset for compositional language and elementary visual reasoning (CVPR 2017)** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Johnson_CLEVR_A_Diagnostic_CVPR_2017_paper.pdf) [[Code]](https://cs.stanford.edu/people/jcjohns/clevr/)
+### Lingual Reasoning
+* **Mr-ben: A meta-reasoning benchmark for evaluating system-2 thinking in llms (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2406.13975) [[Code]](https://randolph-zeng.github.io/Mr-Ben.github.io/)
+* **RM-bench: Benchmarking reward models of language models with subtlety and style (ICLR 2025)** [[Paper]](https://arxiv.org/pdf/2410.16184?) [[Code]](https://github.com/THU-KEG/RM-Bench)
+* **LR2Bench: Evaluating Long-chain Reflective Reasoning Capabilities of Large Language Models via Constraint Satisfaction Problems (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.17848) [[Code]](https://huggingface.co/spaces/UltraRonin/LR2Bench)
+* **Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.17387?) [[Code]](https://huggingface.co/datasets/SynthLabsAI/Big-Math-RL-Verified)
+* **LongReason: A Synthetic Long-Context Reasoning Benchmark via Context Expansion (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.15089) [[Code]](https://arxiv.org/pdf/2501.15089)
+* **Big-bench extra hard (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.19187) [[Code]](https://github.com/google-deepmind/bbeh)
+* **Researchbench: Benchmarking llms in scientific discovery via inspiration-based task decomposition (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.21248)
+* **MastermindEval: A Simple But Scalable Reasoning Benchmark (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2503.05891) [[Code]](https://github.com/flairNLP/mastermind)
+* **Z1: Efficient Test-time Scaling with Code (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2504.00810) [[Code]](https://arxiv.org/pdf/2504.00810)
 ### Tactile Reasoning
 * **Transferable tactile transformers for representation learning across diverse sensors and tasks (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2406.13640) [[Code]](https://t3.alanz.info/)
 * **Touch100k: A large-scale touch-language-vision dataset for touch-centric multimodal representation (arXiv 2024)** [[Paper]](https://arxiv.org/pdf/2406.03813) [[Code]](https://cocacola-lab.github.io/Touch100k/)
@@ -302,3 +319,4 @@ Neuroscience Inspired Agent Reasoning Framework
 * **Beyond sight: Finetuning generalist robot policies with heterogeneous sensors via language grounding (arXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.04693?) [[Code]](https://arxiv.org/pdf/2501.04693?)
 ### Auditory Reasoning
 * **Audiocaps: Generating captions for audios in the wild (NAACL 2019)** [[Paper]](https://aclanthology.org/N19-1011.pdf) [[Code]](https://audiocaps.github.io/)
+* **Clotho: An audio captioning dataset (ICASSP 2020)** [[Paper]](https://arxiv.org/pdf/1910.09387) [[Code]](https://zenodo.org/records/3490684)
