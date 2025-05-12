@@ -1,4 +1,4 @@
-# Awesome-Neuroscience-Agent-Reasoning
+# Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience
 [![arXiv](https://img.shields.io/badge/arXiv-2505.05515-red)](https://arxiv.org/abs/2505.05515)
 [![Maintenance](https://img.shields.io/badge/Maintenance-%E2%9C%93-yellowgreen)](#maintenance)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen)](#discussion)      
@@ -6,8 +6,8 @@
 Neuroscience Inspired Agent Reasoning Framework
 
 ## 📢 News
+- __[2025.5.7]__: 🔥🔥  We released our survey [Nature's Insight: A Novel Framework and Comprehensive Analysis of Agentic Reasoning Through the Lens of Neuroscience](https://arxiv.org/abs/2505.05515) ! This is the **first** survey to systematically explore **agentic reasoning** from a **neuroscience** perspective, introducing a **comprehensive framework** that spans **sensory input to motor execution**. It bridges AI reasoning and brain mechanisms, offering a foundation for **future agent studies**.
 
-## Agentic Reasoning: A Novel Systematic Framework and Survey from Neuroscience Perspective
 
 ![image](./figures/reasoning_process.png)
 ![image](./figures/overview.png)
@@ -23,6 +23,10 @@ The overview of the reasoning process and classification of reasoning behavior f
 * **From System 1 to System 2: A Survey of Reasoning Large Language Models (arXiv 2025)** 
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2502.17419)
   [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/zzli2022/Awesome-System2-Reasoning-LLM)
+* **Logical Reasoning in Large Language Models: A Survey (arXiv 2025)**  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2502.09100)
+* **Towards reasoning era: A survey of long chain-of-thought for reasoning large language models (arXiv 2025)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.09567) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/LightChen233/Awesome-Long-Chain-of-Thought-Reasoning)
+* **Towards Large Reasoning Models: A Survey of Reinforced Reasoning with Large Language Models (arXiv 2025)**  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2501.09686)
+* **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond (arXiv 2025)**  [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2503.21614) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/XiaoYee/Awesome_Efficient_LRM_Reasoning)
 * **A Survey of Reasoning with Foundation Models (arXiv 2023)**
   [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2312.11562)
   [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/reasoning-survey/Awesome-Reasoning-Foundation-Models)
