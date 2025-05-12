@@ -147,7 +147,6 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
  * **BAT: Learning to Reason about Spatial Sounds with Large Language Models (ICML 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2402.01591) [![Code](https://img.shields.io/badge/Code-yellow)](https://zhishengzheng.com/BAT/)
  * **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.11768) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/Sreyan88/GAMA)
  * **What do MLLMs hear? Examining reasoning with text and sound components in Multimodal Large Language Models (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2406.04615)
- * 
 ### Counter Factual Learning
  * **Disentangled counterfactual learning for physical audiovisual commonsense reasoning (NeurIPS 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/29571f8fda54fe93631c41aad4215abc-Abstract-Conference.html)
  * **Learning Audio Concepts from Counterfactual Natural Language. (ICASSP 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2401.04935)
@@ -161,7 +160,7 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
 ## Dimension-based Reasoning
 ## Part 5: Spatial Reasoning
 * **Visual Spatial Reasoning (TACL 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://doi.org/10.1162/tacl_a_00566)
-* **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (CVPR 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf))
+* **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities (CVPR 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SpatialVLM_Endowing_Vision-Language_Models_with_Spatial_Reasoning_Capabilities_CVPR_2024_paper.pdf)
 * **Large Language Models are Visual Reasoning Coordinators (NeurIPS 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2023/file/ddfe6bae7b869e819f842753009b94ad-Paper-Conference.pdf)
 * **Is a Picture Worth a Thousand Words? Delving into Spatial Reasoning for Vision-Language Models (NeurIPS 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2024/file/89cc5e613d34f90de90c21e996e60b30-Paper-Conference.pdf)
 * **Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs (CVPR 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openaccess.thecvf.com/content/CVPR2024/papers/Ranasinghe_Learning_to_Localize_Objects_Improves_Spatial_Reasoning_in_Visual-LLMs_CVPR_2024_paper.pdf)
@@ -180,14 +179,14 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
 * **Dialectical Language Model Evaluation: An Initial Appraisal of the Commonsense Spatial Reasoning Abilities of LLMs (arXiv 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2304.11164)
 * **Reframing Spatial Reasoning Evaluation in Language Models: A Real-World Simulation Benchmark for Qualitative Reasoning (IJCAI 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2405.15064)
 * **What's "Up" with Vision-Language Models? Investigating Their Struggle with Spatial Reasoning (EMNLP 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2310.19785) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/amitakamath/whatsup_vlms)
-* **Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2409.09788) [![Code](https://img.shields.io/badge/Code-yellow)]
+* **Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2409.09788) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/andrewliao11/Q-Spatial-Bench-code)
 * **Chain-of-Symbol Prompting For Spatial Reasoning in Large Language Models (COLM 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://openreview.net/pdf?id=Hvq9RtSoHG)
 * **GRASP: A Grid-Based Benchmark for Evaluating Commonsense Spatial Reasoning (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/pdf/2407.01892?)
-* **Graph-Based Spatial Reasoning for Tracking Landmarks in Dynamic Laparoscopic Environments (IEEE RA-L)** [![Paper](https://img.shields.io/badge/Paper-red)]
-* **TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)]
-* **End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)]
-* **I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)]
-* **Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)]
+* **Graph-Based Spatial Reasoning for Tracking Landmarks in Dynamic Laparoscopic Environments (IEEE RA-L)** [![Paper](https://img.shields.io/badge/Paper-red)](https://ieeexplore.ieee.org/abstract/document/10638700)
+* **TopV-Nav: Unlocking the Top-View Spatial Reasoning Potential of MLLM for Zero-shot Object Navigation (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2411.16425)
+* **End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2411.05755) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/Jirl-upenn/VLMnav)
+* **I Know About "Up"! Enhancing Spatial Reasoning in Visual Language Models Through 3D Reconstruction (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2407.14133) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/zhouhao028/Iknow_up)
+* **Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning (arXiv 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2412.11974) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/declare-lab/Emma-X)
 
 
 ## Part 6: Temporal Reasoning
@@ -252,7 +251,7 @@ Taxonomy of Agentic Reasoning Techniques Inspired by Neuroscience. This hierarch
 
  ## Part 8: Deductive Reasoning
  * **Audio Entailment: Assessing Deductive Reasoning for Audio Understanding (AAAI 2025)** [![Paper](https://img.shields.io/badge/Paper-red)](https://ojs.aaai.org/index.php/AAAI/article/view/34548)
- * **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [[Code](https://github.com/lz1oceani/verify_cot)
+ * **Deductive Verification of Chain-of-Thought Reasoning (NeurIPS 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/lz1oceani/verify_cot)
  * **Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples (NeurIPS 2023)** [![Paper](https://img.shields.io/badge/Paper-red)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/09425891e393e64b0535194a81ba15b7-Abstract-Conference.html)
  * **Certified Deductive Reasoning with Language Models (TMLR 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2306.04031)[![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/gpoesia/certified-reasoning)
  * **How Far Are We from Intelligent Visual Deductive Reasoning? (CoLM 2024)** [![Paper](https://img.shields.io/badge/Paper-red)](https://arxiv.org/abs/2403.04732) [![Code](https://img.shields.io/badge/Code-yellow)](https://github.com/apple/ml-rpm-bench)
